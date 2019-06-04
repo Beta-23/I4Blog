@@ -1,24 +1,41 @@
-# README
+# I4Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation
 
-Things you may want to cover:
+Add this line to your application's Gemfile:
 
-* Ruby version
+```ruby
+gem ''
+```
 
-* System dependencies
+And then execute:
 
-* Configuration
+    $ bundle
 
-* Database creation
+## Usage
+```ruby
 
-* Database initialization
+```
 
-* How to run the test suite
+```rails
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+```
 
-* ...
+## Development
+
+After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/Beta-23/I4Blog. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+The gems is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Code of Conduct
+
+
+
