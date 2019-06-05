@@ -31,7 +31,9 @@ And then execute:
 ```
 ## Database
 
-<img src="images/pg.png">
+![PostgreSQL](/assets/images/pg.png)
+
+<img src="/images/pg.png">
 
 - _PostgreSQL_
 - _Version 9.5.0_
