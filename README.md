@@ -33,11 +33,8 @@ And then execute:
 
 <img src="images/pgelephant.png" width="100">
 
-```
 PostgreSQL
 Version 9.5.0
-
-```
 
 ## Development
 
