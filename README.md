@@ -32,8 +32,9 @@ And then execute:
 ## Database
 
 ```postgresql
-_PostgreSQL_
-_Version 9.5.0_
+![Elephant](pgelephant.png)
+PostgreSQL
+Version 9.5.0
 
 ```
 
