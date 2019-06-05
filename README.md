@@ -31,7 +31,7 @@ And then execute:
 ```
 ## Database
 
-![](images/pgelephant.png)
+<img src="images/pgelephant.png" width="100">
 
 ```
 PostgreSQL
