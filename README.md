@@ -31,7 +31,7 @@ And then execute:
 ```
 ## Database
 
-![PostgreSQL](/assets/images/pg.png)
+![PostgreSQL](app/assets/images/pg.png)
 
 <img src="/images/pg.png">
 
