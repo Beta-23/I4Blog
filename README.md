@@ -31,10 +31,10 @@ And then execute:
 ```
 ## Database
 
-<img src="/assets/images/pgelephant.png" width="100">
+<img src="assets/images/pgelephant.png" width="100">
 
-PostgreSQL
-Version 9.5.0
+- _PostgreSQL_
+- _Version 9.5.0_
 
 ## Development
 
