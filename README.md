@@ -28,6 +28,10 @@ And then execute:
 
 ```rails
 
+```
+## Database
+
+```postgresql
 
 ```
 
