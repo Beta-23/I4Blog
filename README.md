@@ -31,9 +31,9 @@ And then execute:
 ```
 ## Database
 
-<img src="./images/pgelephant.png"
+<img src="../images/pgelephant.png"
      alt="PostgreSQL"
-     style="float: left; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
 ```
 PostgreSQL
 Version 9.5.0
