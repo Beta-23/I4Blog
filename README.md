@@ -4,10 +4,10 @@
 
 ## Features
 
--Real time chat engine for comments
--Blog 
--Portfolio
--Drag and drop UI
+- Real time chat engine for comments
+- Blog 
+- Portfolio
+- Drag and drop UI
 
 ## Installation
 
