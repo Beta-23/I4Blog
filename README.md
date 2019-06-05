@@ -31,8 +31,11 @@ And then execute:
 ```
 ## Database
 
-```postgresql
-![Elephant](pgelephant.png)
+```
+<img src="pgelephant.png"
+     alt="PostgreSQL icon"
+     style="float: left; margin-right: 10px;" />
+     
 PostgreSQL
 Version 9.5.0
 
