@@ -31,8 +31,8 @@ And then execute:
 ```
 ## Database
 
-<img src="/images/pgelephant.png"
-     alt="PostgreSQL icon"
+<img src="images/pgelephant.png"
+     alt="PostgreSQL"
      style="float: left; margin-right: 10px;" />
 ```
 PostgreSQL
