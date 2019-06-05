@@ -33,7 +33,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Beta-2
 
 ## License
 
-The gems is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The gems are available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Code of Conduct
 
