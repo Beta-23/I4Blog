@@ -31,7 +31,7 @@ And then execute:
 ```
 ## Database
 
-![PostgreSQL icon](app/assets/images/pgelephant.png)
+![PostgreSQL](app/assets/images/pg.png)
 
 - _PostgreSQL_
 - _Version 9.5.0_
