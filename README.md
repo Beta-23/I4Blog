@@ -31,7 +31,7 @@ And then execute:
 ```
 ## Database
 
-<img src="images/pg.png" width="100">
+<img src="/images/pg.png" width="100">
 
 - _PostgreSQL_
 - _Version 9.5.0_
