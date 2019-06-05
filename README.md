@@ -1,5 +1,7 @@
 # I4Blog
 
+New Blog
+
 ## Installation
 
 Add this line to your application's Gemfile:
