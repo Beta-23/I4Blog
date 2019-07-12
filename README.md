@@ -1,6 +1,6 @@
 # I4Blog
 
-> This is a Ruby on Rails 5 application that allowes users to create their own portfolios.
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios.
 
 ## Features
 
@@ -14,7 +14,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem ''
+gem 'friendly_id', '~> 5.2.4'
 ```
 
 And then execute:
@@ -23,11 +23,11 @@ And then execute:
 
 ## Usage
 ```ruby
-
+ruby '2.6.3'
 ```
 
 ```rails
-
+gem 'rails', '~> 5.2.3'
 ```
 ## Database
 
