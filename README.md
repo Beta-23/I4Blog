@@ -15,6 +15,8 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'friendly_id', '~> 5.2.4'
+
+gem 'devise', '~> 4.6', '>= 4.6.2'
 ```
 
 And then execute:
