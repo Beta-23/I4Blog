@@ -25,7 +25,7 @@ And then execute:
 
 ## Usage
 ```ruby
-ruby '2.6.3'
+ruby '2.4.4'
 ```
 
 ```rails
