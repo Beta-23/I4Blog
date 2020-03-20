@@ -204,8 +204,8 @@ DEPENDENCIES
   msgpack (~> 1.2, >= 1.2.10)
   nokogiri (>= 1.10.4)
   pg (>= 0.18, < 2.0)
-  puma (~> 3.11)
-  rack (~> 2.0.1)
+  puma (~> 3.12)
+  rack (~> 2.0.8)
   rails (~> 5.2.3)
   rspec
   sass-rails (~> 5.0)
