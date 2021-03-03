@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.4.4'
 gem "activerecord", ">= 5.2.4.5"
 gem "nokogiri", ">= 1.10.4"
-gem 'rack', '~> 2.0.8'
+gem 'rack', '~> 2.1.4'
 gem 'rspec'
 gem 'msgpack', '~> 1.2', '>= 1.2.10'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
