@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.4.4'
+ruby '2.5.5'
+gem "nokogiri", ">= 1.11.0"
 gem "activerecord", ">= 5.2.4.5"
-gem "nokogiri", ">= 1.10.4"
 gem 'rack', '~> 2.1.4'
 gem 'rspec'
 gem 'msgpack', '~> 1.2', '>= 1.2.10'
